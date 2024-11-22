@@ -1,13 +1,18 @@
 # News Site
-
-This is a news site with the topic "weaving". It has been developed as an boot-camp assignment and focusses on practicing HTML and CSS and to adjust the codes to different devices. 
-
+This is a website centered around the topic of "weaving," created as part of a boot camp project. The primary goal of the project was to practice HTML and CSS, with a focus on creating a responsive layout that adjusts seamlessly across different devices, from mobile to desktop.
 
 ## The problem
 
-I first sketched an initial sketch of the various elements using the Figma program and drew further detailed sketches with pen and paper.
-A problem in the current version is that the images used are sometimes displayed distorted.
-next steps: customize the images; link logo and big text; make the menu clickable in the mobile and tablet view; add contact buttons (till example linkedin);
+One of the key challenges in the current version is that some of the images appear distorted, especially when displayed on different screen sizes. Additionally, there are several areas that need improvement, including:
+
+Interactive elements: Making the logo and large headlines clickable.
+Mobile Navigation: Implementing a fully functional hamburger menu that works on mobile and tablet views.
+Additional Features: Adding contact buttons (such as LinkedIn) and improving overall usability.
+
+Technologies Used:
+HTML5: For structuring the content.
+CSS: For styling and layout, including flexbox and grid systems for responsiveness.
+Responsive Design: Media queries to adjust the layout based on device screen sizes (mobile, tablet, desktop).
 
 ## View it live
 https://newspage-gitte.netlify.app/

@@ -182,15 +182,11 @@ main {
   }
 }
 
-
 /* Big Desktop */
 @media (min-width: 1200px) {
   main {
     .card-link {
       grid-column: span 3;
     }
-
-
-
   }
 }
